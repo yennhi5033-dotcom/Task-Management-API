@@ -8,10 +8,10 @@ POST http://localhost:3001/api/tasks
 Content-Type: application/json
 
 {
-  "title": "Học Express.js",
-  "description": "Hoàn thành REST API",
-  "priority": "high",
-  "dueDate": "2026-08-20"
+  "title": "Học Tieng Anh",
+  "description": "Hoàn thành Tieng Anh",
+  "priority": "low",
+  "dueDate": "2026-09-20"
 }
 
 ###

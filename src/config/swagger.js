@@ -13,7 +13,15 @@ const swaggerOptions = {
   servers: [
     {
       url: "/",
-      description: "Local development server",
+      description: "Current Host / Server",
+    },
+    {
+      url: "http://localhost:3001",
+      description: "Local Development Server",
+    },
+    {
+      url: "https://task-management-api-dgg7.onrender.com",
+      description: "Production Server (Render)",
     },
   ],
   tags: [

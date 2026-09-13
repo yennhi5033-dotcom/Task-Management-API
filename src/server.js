@@ -16,7 +16,7 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:5174",
-
+  "https://task-management-api-dgg7.onrender.com",
 
   // Vercel frontend
   "https://fe-task-management-flame.vercel.app",

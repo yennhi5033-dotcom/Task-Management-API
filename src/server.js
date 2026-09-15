@@ -18,6 +18,8 @@ const allowedOrigins = [
   "http://localhost:5174",
   "https://task-management-api-dgg7.onrender.com",
   "https://fe-task-management-flame.vercel.app",
+  "http://localhost:3000",
+  "http://localhost:3001",
 ];
 
 app.use(

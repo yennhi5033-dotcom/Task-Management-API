@@ -20,6 +20,7 @@ const allowedOrigins = [
   "https://fe-task-management-ntyn.vercel.app",
   "http://localhost:3000",
   "http://localhost:3001",
+  "https://task-management-api-dgg7.onrender.com/api/tasks"
 ];
 
 app.use(

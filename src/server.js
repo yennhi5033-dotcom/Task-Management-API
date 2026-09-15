@@ -22,6 +22,7 @@ const allowedOrigins = [
   "https://fe-task-management-flame.vercel.app",
   "https://task-management-api-dgg7.onrender.com",
   "https://proactive-nature-production-c316.up.railway.app",
+  "https://fe-task-management-hum3.vercel.app"
 ];
 
 app.use(

@@ -16,13 +16,12 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:5174",
-  "https://task-management-api-dgg7.onrender.com",
-  "https://fe-task-management-ntyn.vercel.app",
   "http://localhost:3000",
   "http://localhost:3001",
-  "https://task-management-api-dgg7.onrender.com/api/tasks",
-  "https://proactive-nature-production-c316.up.railway.app/api/tasks",
-  "https://proactive-nature-production-c316.up.railway.app"
+  "https://fe-task-management-ntyn.vercel.app",
+  "https://fe-task-management-flame.vercel.app",
+  "https://task-management-api-dgg7.onrender.com",
+  "https://proactive-nature-production-c316.up.railway.app",
 ];
 
 app.use(
